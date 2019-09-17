@@ -17,7 +17,6 @@ class Quotes extends Component {
             <div className="col-md-4">
               {/*
                 TODO:
-
                 Render Quotes With QuoteCard component and pass down callback props for removing, upvoting and downvoting quotes
                */}
             </div>
